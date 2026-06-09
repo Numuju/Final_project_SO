@@ -1,4 +1,4 @@
-# Proyecto Final - Sistemas Operacionales
+# Proyecto Final - Sistemas Operativos
 
 # Autor
 
